@@ -1,4 +1,4 @@
-﻿wms 通用仓储管理系统
+﻿wms 仓管系统
 
 * 后端采用 SpringBoot + MYSQL
 * 前端采用 vue.js + ElementUI 
